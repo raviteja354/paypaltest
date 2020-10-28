@@ -1,0 +1,5 @@
+com\paypal\bfs\test\employeeserv\impl\EmployeeRepository.class
+com\paypal\bfs\test\employeeserv\impl\EmployeeResourceImpl.class
+com\paypal\bfs\test\employeeserv\model\Employee.class
+com\paypal\bfs\test\employeeserv\EmployeeservApplication.class
+com\paypal\bfs\test\employeeserv\model\Address.class
